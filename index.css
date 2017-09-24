@@ -25,3 +25,7 @@ body {
 .sub-container {
     padding-top: 30px;
 }
+
+a i {
+    color: #fff;
+}
