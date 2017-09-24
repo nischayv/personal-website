@@ -20,6 +20,19 @@ body {
 
 #jobs-container {
     padding-top: 20px;
+    color: #D3D3D3;
+}
+
+#about-container {
+    color: #D3D3D3;
+}
+
+#work-container {
+    color: #D3D3D3;
+}
+
+#education-container {
+    color: #D3D3D3;
 }
 
 .sub-container {
