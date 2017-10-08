@@ -1,0 +1,63 @@
+body {
+    padding-top: 1%;
+    background-color: #172727;
+    color: white;
+}
+
+.nav-item {
+    margin-right: 10px;
+    border: 1px solid white;
+    font-size: 12px;
+}
+
+.nav-link {
+    color: white!important;
+    background-color: #172727!important;
+}
+
+.tab-container{
+    padding-top: 50px;
+}
+
+/*#jobs-container {*/
+    /*padding-top: 20px;*/
+    /*color: #D3D3D3;*/
+/*}*/
+
+#about-container {
+    color: #D3D3D3;
+}
+
+#work-container {
+    color: #D3D3D3;
+}
+
+#education-container {
+    color: #D3D3D3;
+}
+
+#contact-container {
+    background-color: #2b3838;
+    color: #e5e5e5;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+#copy-container {
+    color: #D3D3D3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sub-container {
+    padding-top: 30px;
+}
+
+.contact-icons {
+    font-size: 72px;
+}
+
+a i {
+    color: #fff;
+}
